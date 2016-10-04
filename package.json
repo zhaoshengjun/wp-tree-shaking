@@ -1,0 +1,16 @@
+{
+  "name": "webpack2-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sam Zhao <zhao.shengjun@gmail.com> (https://zhaoshengjun.github.io/)",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "2.1.0-beta.25"
+  }
+}
